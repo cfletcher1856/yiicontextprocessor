@@ -1,6 +1,14 @@
 assets/*
 !assets/.gitignore
+css/*
 protected/runtime/*
 !protected/runtime/.gitignore
-protected/data/*.db
+protected/data/*
+protected/config/*
+protected/tests/*
+protected/views/*
+protected/yiic*
 themes/classic/views/
+logs/*
+!logs/.gitignore
+index*
